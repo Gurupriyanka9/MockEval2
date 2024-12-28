@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  nav {
+    margin-bottom: 20px;
+  }
+  nav a {
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  form {
+    margin-bottom: 20px;
+  }
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  input {
+    display: block;
+    margin-bottom: 10px;
+  }
+  button {
+    display: block;
+    margin-top: 10px;
+  }
+  .question-card {
+    border: 1px solid #000;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
